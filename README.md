@@ -1,2 +1,2 @@
-# resum
+# Resume
 My lastest Resume
